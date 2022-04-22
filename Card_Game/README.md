@@ -1,0 +1,2 @@
+The library can be built by using the Deck, Hand, and Card java files. They can be exported as fre files to be able to use. 
+In this instance I created the files to be used in the Game.java file, but ran out of time. 
